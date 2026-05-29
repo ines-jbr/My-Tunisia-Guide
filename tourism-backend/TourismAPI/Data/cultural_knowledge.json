@@ -1,0 +1,1144 @@
+{
+  "regions": {
+    "Tunis": {
+      "name": "Tunis",
+      "description": "Capitale de la Tunisie, mélange unique de modernité et de patrimoine arabo-andalou, classée UNESCO",
+      "dishes": [
+        {
+          "name": "Couscous tunisien",
+          "description": "Le plat national par excellence, souvent préparé à Tunis avec du poisson, de l'agneau ou du poulet, accompagné de légumes",
+          "ingredients": ["semoule", "agneau", "courgette", "carotte", "pois chiches", "harissa", "tomate", "oignon"]
+        },
+        {
+          "name": "Lablabi",
+          "description": "Un plat de rue très populaire, consistant en une soupe de pois chiches parfumée au cumin, à l'ail et à l'harissa, servie chaude avec des morceaux de pain rassis",
+          "ingredients": ["pois chiches", "pain", "ail", "cumin", "harissa", "œuf", "huile d'olive", "citron"]
+        },
+        {
+          "name": "Brik à l'œuf",
+          "description": "Une fine feuille de brick croustillante farcie d'un œuf coulant, de thon, de persil et de câpres",
+          "ingredients": ["feuille de brick", "œuf", "thon", "câpres", "persil", "oignon"]
+        },
+        {
+          "name": "Tajine tunisien",
+          "description": "Proche de la frittata italienne ou de l'omelette, il est cuit au four avec de la viande, du fromage et des œufs",
+          "ingredients": ["œufs", "viande hachée", "fromage râpé", "persil", "épinards", "pommes de terre"]
+        },
+        {
+          "name": "Mlokhia",
+          "description": "Ragoût noir épais à base de feuilles de corète séchées et viande de bœuf",
+          "ingredients": ["feuilles de mloukhia", "bœuf", "ail", "coriandre", "huile d'olive"]
+        },
+        {
+          "name": "Salade Méchouia",
+          "description": "Composée de poivrons, tomates et ail grillés, le tout mixé et relevé avec du thon, des œufs durs et des olives",
+          "ingredients": ["huile d'olive", "thon", "poivron", "tomates", "onion"]
+        },
+        {
+          "name": "Bambalouni",
+          "description": "Beignet rond et croustillant traditionnel de la médina, saupoudré de sucre",
+          "ingredients": ["farine", "levure", "sucre", "huile"]
+        }
+      ],
+      "traditions": [
+        "Cérémonie du henné lors des mariages (Outia)",
+        "L'Artisanat : Les ruelles de la Médina regorgent d'ateliers de poterie, de travail du cuir, de cuivre ciselé et de fabrication de la Jebba (le costume traditionnel masculin en laine ou en soie",
+        "Artisanat du cuivre dans Souk En-Nhass",
+        "L'art du café : Le thé à la menthe aux pignons et le café turc sont des rituels sociaux incontournables, tout comme fumer la chicha dans les cafés maures traditionnels"
+      ],
+      "music": [
+        {
+          "name": "Malouf",
+          "description": "Musique classique citadine issue de l'héritage arabo-andalou. Importé par les réfugiés andalous au Moyen-Âge, il se compose de chants poétiques et se joue avec des instruments comme l'oud et le qanoun"
+        },
+        {
+          "name": "Mezoued",
+          "description": "Musique populaire urbaine festive avec cornemuse traditionnelle (mezoued)"
+        },
+        {
+          "name": "Stambeli",
+          "description": "Une musique de transe spirituelle héritée des communautés d'Afrique subsaharienne, rythmée par des gumbris et des crotales"
+        },
+        {
+          "name": "Hadhra",
+          "description": "Un spectacle musical basé sur des chants soufis et des invocations religieuses très populaire à Tunis"
+        }
+
+      ],
+      "history": "Tunis fut fondée par les Berbères vers le IVe siècle av. J.-C., puis devint capitale sous les Hafsides au XIIIe siècle. Sa Médina, classée UNESCO en 1979, abrite plus de 700 monuments historiques dont la Grande Mosquée Zitouna (732). Carthage, à proximité, fut une puissante cité phénicienne fondée en 814 av. J.-C., rivale de Rome lors des Guerres Puniques. La ville a été ottomane, puis française (1881-1956) avant l'indépendance. La Médina : Cœur historique classé au patrimoine mondial de l'UNESCO. Fondée au VIIIe siècle, elle a connu son apogée sous les dynasties Hafside et Ottomane, ce qui explique l'architecture de ses mosquées, ses souks et ses somptueux palais.Carthage : Située dans la banlieue de Tunis, elle a été la grande rivale de Rome dans l'Antiquité, avant de devenir romaine puis musulmane.Le Bardo : Abrité dans un ancien palais beylical, le Musée National du Bardo est mondialement connu pour posséder la plus belle collection de mosaïques romaines au monde.",
+      "famous_sites": ["Médina de Tunis (UNESCO)", "Sidi Bou Saïd", "Carthage", "Musée du Bardo", "Mosquée Zitouna", "Avenue Habib Bourguiba"]
+    },
+    "Ariana": {
+      "name": "Ariana",
+      "description": "L'Ariana, banlieue prestigieuse au nord de Tunis, tire son nom de l'époque vandale. Marquée par l'héritage andalou, elle a prospéré grâce à ses jardins.",
+      "dishes": [
+        {
+          "name": "Couscous",
+          "description": "Incontournable, souvent préparé à l'agneau ou au poisson selon la saison",
+          "ingredients": ["semoule", "agneau", "petits pois", "artichauts", "poisson", "onion" ,"ail","pomme de terre", "poivron"]
+        },
+        {
+          "name": "Salade Méchouia",
+          "description": "Composée de poivrons, tomates et ail grillés, le tout mixé et relevé avec du thon, des œufs durs et des olives",
+          "ingredients": ["huile d'olive", "thon", "poivron", "tomates", "onion"]
+        },
+        {
+          "name": "kaak warka , makroudh , baklewa",
+          "description": "Douceurs parfumées à l'eau de rose, spécialité d'Ariana",
+          "ingredients": ["amandes", "miel", "eau de rose", "pistaches"]
+        }
+      ],
+      "traditions": [
+        "Festival des Roses (mai)",
+        "Distillation traditionnelle d'eau de rose",
+        "Architecture andalouse héritée"
+      ],
+      "music": [
+        {
+          "name": "Chants andalous",
+          "description": "Mélodies héritées des Morisques andalous installés au XVIIe siècle"
+        },
+        {
+          "name": "Malouf",
+          "description": "Musique classique citadine issue de l'héritage arabo-andalou. Importé par les réfugiés andalous au Moyen-Âge, il se compose de chants poétiques et se joue avec des instruments comme l'oud et le qanoun"
+        },
+        {
+          "name": "Mezoued",
+          "description": "Musique populaire urbaine festive avec cornemuse traditionnelle (mezoued)"
+        }
+      ],
+      "history": "Ariana fut fondée par les réfugiés andalous (Morisques) chassés d'Espagne au XVIIe siècle. Ils y développèrent l'agriculture des roses et l'artisanat. La ville garde une forte empreinte hispano-mauresque dans son architecture.  Cité des roses : Autrefois connue comme un village de villégiature doté de vastes roseraies, elle est devenue une municipalité en 1908 et s'est urbanisée tout en conservant des monuments historiques comme le mausolée de Sidi Ammar Maârouf",
+      "famous_sites": [ "Parc Ariana les roses"]
+    },
+    "Ben Arous": {
+      "name": "Ben Arous",
+      "description": "Banlieue sud industrielle de Tunis, riche en sites archéologiques",
+      "dishes": [
+        {
+          "name": "Couscous au lait (Mesfouf)",
+          "description": "Couscous sucré au lait, dattes et raisins secs",
+          "ingredients": ["semoule fine", "lait", "dattes", "raisins secs", "amandes"]
+        },
+        {
+          "name": "Tajine tunisien",
+          "description": "Proche de la frittata italienne ou de l'omelette, il est cuit au four avec de la viande, du fromage et des œufs",
+          "ingredients": ["œufs", "viande hachée", "fromage râpé", "persil", "épinards", "pommes de terre"]
+        },
+        {
+          "name": "Chorba",
+          "description": "Une soupe riche et épicée",
+          "ingredients": ["epices", "poulet", "poivron", "ail", "onion", "persil","tomates concentrées"]
+        }
+      ],
+      "traditions": [
+        "Pêche traditionnelle à Radès",
+        "Artisanat du fer forgé"
+      ],
+      "music": [
+        {
+          "name": "Malouf",
+          "description": "Musique classique citadine issue de l'héritage arabo-andalou. Importé par les réfugiés andalous au Moyen-Âge, il se compose de chants poétiques et se joue avec des instruments comme l'oud et le qanoun"
+        },
+        {
+          "name": "Musique Soulamya",
+          "description": "Lors des cérémonies traditionnelles, vous pouvez assister à des concerts spirituels où les adeptes se rassemblent en cercle"
+        }
+
+      ],
+      "history": "Ben Arous tire son nom du célèbre saint homme Sidi Ahmed Ben Arous, qui a fondé la confrérie des Aroussiya au XVe siècle à son retour du Maroc.",
+      "famous_sites": []
+    },
+    "Nabeul": {
+      "name": "Nabeul",
+      "description": "Capitale du Cap Bon, célèbre pour sa poterie, ses agrumes et Hammamet",
+      "dishes": [
+        {
+          "name": "Salade Houria",
+          "description": "Purée de carottes fondante assaisonnée à la harissa, à l'ail, au cumin et à l'huile d'olive",
+          "ingredients": ["carottes", "harissa", "oignons", "ail", "huile d'olive", "thon", "œufs"]
+        },
+        {
+          "name": "Mchalouet (ou Klaya Hamra) ",
+          "description": "Un plat à base de viande d'agneau sautée, mijotée avec des tomates, beaucoup d'ail, des épices et parfois des œufs",
+          "ingredients": ["agneau", "tomates", "oignons", "ail", "huile d'olive","œufs"]
+        },
+        {
+          "name": "Couscous Nabeulien (Arressi)",
+          "description": "Un couscous raffiné préparé à la vapeur, traditionnellement accompagné de viande ou de poisson, et délicatement parfumé à la fleur d'oranger",
+          "ingredients": ["fleur d'orange", "oignons", "ail", "huile d'olive","poisson","viande","semoule"]
+        },
+        {
+          "name": "Poisson à la nabeulienne",
+          "description": "Poisson cuit avec sauce tomate épicée et câpres",
+          "ingredients": ["poisson", "tomate", "harissa", "ail", "câpres", "citron"]
+        },
+        {
+          "name": "Poupées de Sucre",
+          "description": "Une friandise emblématique en forme d'animaux ou de personnages, préparée traditionnellement pour la fête religieuse de Mouled",
+          "ingredients": []
+        },
+        {
+          "name": "Confiture de bigaradier",
+          "description": "Spécialité du Cap Bon à base d'oranges amères",
+          "ingredients": ["oranges amères", "sucre", "fleur d'oranger"]
+        }
+      ],
+      "traditions": [
+        "Poterie traditionnelle de Nabeul",
+        "Distillation d'eau de fleur d'oranger (Zhar)",
+        "Le Festival de la Fleur de Bigaradier (Printemps) : Se déroulant généralement à la mi-avril (les 17, 18 et 19 avril), cet événement célèbre la distillation et la récolte du néroli avec un grand souk réunissant artisans et agriculteurs.",
+        "Broderie de Nabeul",
+        "Le Festival de l'Harissa et du Piment : Célèbre ce condiment emblématique du Cap Bon récemment inscrit au patrimoine immatériel de l'UNESCO.",
+        "Le Festival Tajalli (Mars) : Un festival culturel et spirituel organisé lors du mois de Ramadan proposant des concerts, des soirées poétiques et des chants classiques arabes.",
+        "La Foire Internationale de Nabeul (Avril - Mai) : Une grande messe commerciale et artisanale organisée chaque année du 15 avril au 5 mai.",
+        "Le Festival International de Nabeul (Été) : Un festival incontournable qui anime le théâtre de plein air de la ville sur plusieurs semaines avec de la musique, du théâtre et des spectacles vivants."
+      ],
+      "music": [
+        {
+          "name": "Malouf",
+          "description": "Musique classique citadine issue de l'héritage arabo-andalou. Importé par les réfugiés andalous au Moyen-Âge, il se compose de chants poétiques et se joue avec des instruments comme l'oud et le qanoun"
+        },
+        {
+          "name": "Stambeli",
+          "description": "Une musique de transe spirituelle héritée des communautés d'Afrique subsaharienne, rythmée par des gumbris et des crotales"
+        },
+        {
+          "name": "Hadhra",
+          "description": "Un spectacle musical basé sur des chants soufis et des invocations religieuses très populaire à Tunis"
+        },
+        {
+          "name": "Musique Folklorique Bédouine",
+          "description": "Très vivante dans la région du Cap Bon, elle est rythmée par la flûte Gasba, le tambourin Darbouka et la cornemuse locale appelée Zokra"
+        }
+      ],
+      "history": "Ancienne ville de Néapolis (Nouvelle Ville en grec), fondée au Ve siècle av. J.-C. Nabeul est célèbre depuis l'Antiquité pour ses ateliers de poterie. Hammamet, ancienne Pupput romaine, fut prisée par les artistes du XXe siècle (Klee, Foucault).",
+      "famous_sites": ["Hammamet","Plage de Nabeul"]
+    },
+    "Zaghouan": {
+      "name": "Zaghouan",
+      "description": "Ville d'eau au pied du djebel Zaghouan, célèbre depuis l'Antiquité",
+      "dishes": [
+        {
+          "name": " Tajine de Zaghouan",
+          "description": " Contrairement au tajine classique, il s'agit d'une farandole de légumes farcis (pommes de terre, artichauts, tomates) avec des œufs et du fromage",
+          "ingredients": ["pomme de terre", "tomates", "artichaut", "oeuf","fromage"]
+        },
+        {
+          "name": "Marka Hlowwa",
+          "description": "Un plat sucré-salé composé d'une sauce aux fruits secs (marrons, raisins, pruneaux), d'épices et de viande d'agneau",
+          "ingredients": ["fruit secs", "agneau", "huile d'olive"]
+        },
+        {
+          "name": "Mkarbta",
+          "description": "Un plat traditionnel à base de pâtes locales (Nwassér) mijotées avec de la viande d'agneau.",
+          "ingredients": ["pomme de terre", "nwasser", "agneau", "huile d'olive"]
+        }
+      ],
+      "traditions": [
+      ],
+      "music": [
+        {
+          "name": "Malouf",
+          "description": "Musique classique citadine issue de l'héritage arabo-andalou. Importé par les réfugiés andalous au Moyen-Âge, il se compose de chants poétiques et se joue avec des instruments comme l'oud et le qanoun"
+        }
+      ],
+      "history": "Zaghouan abrite le célèbre Temple des Eaux romain qui alimentait Carthage par un aqueduc de 132 km, le plus long de l'Empire romain. La région a toujours été réputée pour ses sources d'eau pure.",
+      "famous_sites": ["Temple des Eaux", "Djebel Zaghouan"]
+    },
+    "Bizerte": {
+      "name": "Bizerte",
+      "description": "Ville la plus septentrionale d'Afrique, port historique méditerranéen au vieux port pittoresque",
+      "dishes": [
+        {
+          "name": "Poisson au four bizertin",
+          "description": "Poisson cuit avec pommes de terre, tomates et olives",
+          "ingredients": ["poisson", "pommes de terre", "tomate", "olives", "ail", "citron"]
+        },
+        {
+          "name": "Couscous au poisson",
+          "description": "La Makrouna Arbi désigne traditionnellement des pâtes en sauce rouge épicée, préparées avec du poulet fermier (djej arbi) ou de l'agneau. ",
+          "ingredients": ["Morceaux de poulet fermier", "Concentré de tomates", "harissa", "Épices", "Ail"]
+        },
+        {
+          "name": "Makrouna Arbi",
+          "description": "Couscous aux fruits de mer typique du nord",
+          "ingredients": ["semoule", "poisson", "calamars", "tomate", "fruits secs","dattes","raisins"]
+        },
+        {
+          "name": "Rechta njara hlowa",
+          "description": "De fines pâtes fraîches faites maison, cuites à la vapeur, arrosées d’huile d’olive, de beurre, d'eau de fleur d'oranger, et généreusement garnies de fruits secs, dattes et raisins.",
+          "ingredients": ["rechta", "beurre", "huile d'olives", "eau de fleur d'oranger", "épices"]
+        },
+        { "name": "Lablabi",
+          "description": "Un plat de rue très populaire, consistant en une soupe de pois chiches parfumée au cumin, à l'ail et à l'harissa, servie chaude avec des morceaux de pain rassis",
+          "ingredients": ["pois chiches", "pain", "ail", "cumin", "harissa", "œuf", "huile d'olive", "citron"]
+        }
+      ],
+      "traditions": [
+        "Pêche traditionnelle au vieux port",
+        "Festival de Bizerte (été)",
+        "Fête de la bataille de Bizerte (15 octobre)"
+      ],
+      "music": [
+        {
+          "name": "Malouf",
+          "description": "Musique classique citadine issue de l'héritage arabo-andalou. Importé par les réfugiés andalous au Moyen-Âge, il se compose de chants poétiques et se joue avec des instruments comme l'oud et le qanoun"
+        }
+      ],
+      "history": "Bizerte (Hippo Diarrhytus à l'époque romaine, Benzert en arabe) est l'une des plus anciennes villes de Tunisie, fondée par les Phéniciens. Son port naturel a toujours été stratégique. Dernière ville évacuée par les Français en 1963 après la bataille de Bizerte (1961).",
+      "famous_sites": ["Vieux port de Bizerte", "Kasbah de Bizerte", "Lac Ichkeul (UNESCO)", "Cap Blanc", "Plage de Raf Raf"]
+    },
+    "Béja": {
+      "name": "Béja",
+      "description": "Grenier à blé de la Tunisie, riche région agricole du Nord-Ouest",
+      "dishes": [
+        {
+          "name": "Borzgane",
+          "description": "Un couscous au goût sucré-salé emblématique de Béja, préparé en alternant semoule, fruits secs, dattes et viande d'agneau tendre",
+          "ingredients": ["fruit sec", "agneau", "dattes", "semoule"]
+        },
+        {
+          "name": "Ftate de Béja",
+          "description": "Des feuilles de pâte superposées et émiettées, souvent servies avec de la viande et des légumes dans un bouillon savoureux.",
+          "ingredients": []
+        },
+        {
+          "name": "Mkharek",
+          "description": "Le mkharek est une spécialité de la cuisine tunisienne traditionnelle préparée typiquement à Béja. Le mkharek est un beignet au miel vendu toute l'année, en particulier durant le mois de ramadan",
+          "ingredients": ["farine", "smen", "oeuf"]
+        },
+        {
+          "name": "Ghrayefs",
+          "description": "De délicieuses crêpes traditionnelles moelleuses et spongieuses",
+          "ingredients": ["farine ", "levure", "sucre", "semoule"]
+        }
+      ],
+      "traditions": [
+        "Festival du blé (été)",
+        "Moisson traditionnelle"
+      ],
+      "music": [
+        {
+          "name": "Malouf",
+          "description": "Musique classique citadine issue de l'héritage arabo-andalou. Importé par les réfugiés andalous au Moyen-Âge, il se compose de chants poétiques et se joue avec des instruments comme l'oud et le qanoun"
+        },
+        {
+          "name": "Âguira",
+          "description": "une tradition festive et musicale qui accompagne les cérémonies de mariage dans plusieurs régions tunisiennes"
+        }
+      ],
+      "history": "Béja est une ville chargée d'histoire, surnommée le grenier de Rome. Sa gastronomie riche, son héritage de musiques traditionnelles et ses monuments uniques reflètent la fusion de plusieurs civilisations : numide, romaine et andalouse. Béja se distingue également par des joyaux architecturaux comme la Grande Mosquée de Testour, ville fondée par les Andalous.",
+      "famous_sites": ["Kasbah de Béja","Dougga","Grand Mosque of Testour"]
+    },
+    "Jendouba": {
+      "name": "Jendouba",
+      "description": "Région forestière du Nord-Ouest, paradis vert avec Tabarka et Ain Draham",
+      "dishes": [
+        {
+          "name": "Sanglier rôti",
+          "description": "Spécialité des montagnes de Kroumirie",
+          "ingredients": ["viande de sanglier", "épices", "herbes de montagne"]
+        },
+        {
+          "name": "Mesfouf",
+          "description": "TVersion berbère du couscous, servi nature ou agrémenté de raisins secs, souvent dégusté avec du petit-lait (leben)",
+          "ingredients": ["raisain secs", "eau de fleur", "lait", "dattes"]
+        },
+        {
+          "name": "Couscous à l'agneau ou au (Gueddid)",
+          "description": "SLe grand classique de la région. Le nord-ouest étant une terre de céréales, la semoule y est travaillée à la perfection. Le couscous est souvent agrémenté de viande d'agneau tendre ou de viande séchée",
+          "ingredients": ["semoule", "huile d'olive", "viande", "légumes"]
+        },
+        { "name": "Lablabi",
+          "description": "Un plat de rue très populaire, consistant en une soupe de pois chiches parfumée au cumin, à l'ail et à l'harissa, servie chaude avec des morceaux de pain rassis",
+          "ingredients": ["pois chiches", "pain", "ail", "cumin", "harissa", "œuf", "huile d'olive", "citron"]
+        }
+      ],
+      "traditions": [
+        "Festival de jazz de Tabarka (juillet)",
+        "Festival du corail (Tabarka)",
+        "Chasse traditionnelle au sanglier",
+        "Cueillette des champignons en automne"
+      ],
+      "music": [
+        {
+          "name": "Festival de jazz de Tabarka",
+          "description": "Festival international de jazz fondé en 1973, l'un des plus anciens d'Afrique"
+        },
+        {
+          "name": "Gasba et le Bendir",
+          "description": "La musique traditionnelle est rythmée par la flûte en roseau (Gasba) et le tambourin (Bendir), qui accompagnent les chants bédouins et la poésie populaire"
+        }
+      ],
+      "history": "Jendouba (Bulla Regia à l'époque romaine) abrite des villas romaines uniques avec des étages souterrains pour échapper à la chaleur. Tabarka fut un important comptoir commercial génois et corse pour le corail. Le gouvernorat de Jendouba regorge de sites archéologiques et historiques d'une valeur inestimable :Bulla Regia : Ancienne capitale numide devenue romaine, mondialement célèbre pour ses maisons souterraines conçues pour se protéger de la chaleur.Chemtou (Simitthus) : Un site antique majeur connu pour ses carrières de marbre jaune et rouge, qui étaient exploitées par les Romains et acheminées jusqu'à Rome et Byzance.Ain Draham et Tabarka : Situées à proximité, ces localités montagneuses et côtières offrent un patrimoine naturel et historique unique, hérité des différentes occupations (berbère, romaine, ottomane)",
+      "famous_sites": [ "Tabarka", "Aïn Draham","Bulla Regia","Chemtou"]
+    },
+    "Kef": {
+      "name": "Kef",
+      "description": "Nichée dans les montagnes du Haut Atlas, la ville du Kef est un haut lieu culturel. Son identité unique se découvre à travers son histoire numide et arabo-musulmane",
+      "dishes": [
+        {
+          "name": "Rfissa",
+          "description": "Plat à base de pain rassis, viande et bouillon",
+          "ingredients": ["pain", "viande", "bouillon", "épices"]
+        },
+        {
+          "name": "Barkoukech",
+          "description": "Un plat réconfortant à base de gros grains de plombs (ou grains de couscous géants), généralement cuisiné avec des légumes de saison, de la viande (ou du klaya) et des épices",
+          "ingredients": ["semoule", "viande", "légumes", "épices"]
+        },
+        {
+          "name": "Borzgane",
+          "description": "Un couscous au goût sucré-salé emblématique de Béja, préparé en alternant semoule, fruits secs, dattes et viande d'agneau tendre",
+          "ingredients": ["fruit sec", "agneau", "dattes", "semoule"]
+        }
+      ],
+      "traditions": [
+        "Festival international du Kef",
+        "le Sicca Jazz",
+        "le Festival de Cinéma"
+      ],
+      "music": [
+        {
+          "name": "Malouf",
+          "description": "Musique classique citadine issue de l'héritage arabo-andalou. Importé par les réfugiés andalous au Moyen-Âge, il se compose de chants poétiques et se joue avec des instruments comme l'oud et le qanoun"
+        },
+        {
+          "name": "Stambeli",
+          "description": "Une musique de transe spirituelle héritée des communautés d'Afrique subsaharienne, rythmée par des gumbris et des crotales"
+        }
+      ],
+      "history": "Le Kef (Sicca Veneria à l'époque romaine) fut un important centre romain dédié à Vénus. Perchée sur les pentes du mont Jebel Dyr, la ville du Kef a traversé les siècles et les civilisations :Époque Numide et Romaine : Connue autrefois sous le nom de Sicca Veneria, la cité abritait des sanctuaires puniques et fut un carrefour majeur durant l'Antiquité.La Kasbah : Cette impressionnante forteresse surplombe la médina et offre un panorama imprenable sur les montagnes environnantes. Elle témoigne de l'importance militaire et stratégique de la ville au fil des époques.Brassage culturel : Le Kef conserve un patrimoine pluriel exceptionnel, abritant dans sa vieille ville des mosquées, des zaouïas (mausolées), ainsi que d'anciennes églises et synagogues, symboles d'une longue tradition de tolérance",
+      "famous_sites": ["Kasbah du Kef", "Sources thermales de Hammam Mellègue","Jugurtha Tableland"]
+    },
+    "Siliana": {
+      "name": "Siliana",
+      "description": "Région agricole et historique du centre-nord, riche en sites berbères",
+      "dishes": [
+        {
+          "name": "Chakhchouka",
+          "description": "Contrairement à la ratatouille classique, c'est un plat de fête. Il est préparé à base de pain traditionnel (Mlaoui ou Kesra) coupé en morceaux, arrosé d'une sauce tomate riche et épicée, et servi avec de la viande d'agneau ou du poulet.",
+          "ingredients": ["épices", "tomates concentrées", "viande", "huile d'olive"]
+        },
+        {
+          "name": "Mlewi",
+          "description": "Crêpe feuilletée croustillante, souvent servie avec thé à la menthe",
+          "ingredients": ["farine", "huile", "sel", "semoule"]
+        },
+        {
+          "name": "Asida zgougou",
+          "description": "Crème de pignons de pin servie au Mawlid, spécialité kairouanaise",
+          "ingredients": ["pignons de pin (zgougou)", "lait", "sucre", "amandes", "noix"]
+        }
+      ],
+      "traditions": [
+        "Artisanat : Les femmes de la région perpétuent le tissage de la laine et du Halfa (tapis, manteaux à capuche, kilims) ainsi que la poterie, un savoir-faire unique visible notamment dans le village de Kesra"
+      ],
+      "music": [
+        {
+          "name": "Gasba et le Bendir",
+          "description": "La musique traditionnelle est rythmée par la flûte en roseau (Gasba) et le tambourin (Bendir), qui accompagnent les chants bédouins et la poésie populaire"
+        },
+        {
+          "name": "Poésie et les Chants bédouins",
+          "description": "Les montagnes du Tell résonnent souvent au son de la poésie orale (comme le Chaâbi) et des chants bédouins"
+        }
+
+      ],
+      "history": "Siliana abrite des sites berbères et romains importants. La région fut un bastion de résistance berbère contre les conquêtes successives.",
+      "famous_sites": ["Mactaris (Makthar)","Kesra (village berbère)"]
+    },
+    "Kairouan": {
+      "name": "Kairouan",
+      "description": "Quatrième ville sainte de l'Islam, capitale spirituelle de la Tunisie, classée UNESCO",
+      "dishes": [
+        {
+          "name": "Makroudh",
+          "description": "Pâtisserie emblématique de Kairouan, en losange à base de semoule et dattes, parfumée à la fleur d'oranger",
+          "ingredients": ["semoule", "dattes", "huile d'olive", "miel", "fleur d'oranger", "cannelle"]
+        },
+        {
+          "name": " Kafteji kairouanais",
+          "description": "Une version locale et sublimée avec les huiles d'olive de la région , composé de légumes frits hachés, d'œufs et d'épices.",
+          "ingredients": ["huile d'olive", "oeuf", "légumes", "épices"]
+        },
+        {
+          "name": " Mosli Allouche",
+          "description": " Un plat traditionnel très réputé, consistant en un agneau tendre rôti au four avec des pommes de terre et des épices",
+          "ingredients": ["huile d'olive", "agneau", "légumes", "épices"]
+        }
+      ],
+      "traditions": [
+        "Festival de la Rose : Organisé chaque printemps, cet événement célèbre la célèbre rose de Kairouan à travers des expositions de terroir et des animations culturelles.",
+        "Artisanat du tapis (renommée mondiale UNESCO)",
+        "Tissage de tapis Zerbia et Mergoum",
+        "Souks traditionnels (cuir, tapis, parfums)",
+        "Festival du Théâtre Moderne : Un rendez-vous incontournable du 4e art qui rassemble des créations théâtrales contemporaines, expérimentales et des œuvres classiques revisitées par des troupes tunisiennes et internationales.",
+        "Festival International de la Feskia : Un événement culturel et musical majeur de la saison estivale, organisé autour du célèbre bassin historique de la ville."
+      ],
+      "music": [
+        {
+          "name": "Malouf",
+          "description": "La musique classique arabo-andalouse est l'âme culturelle de la ville, souvent chantée lors de grands rassemblements soufis)"
+        },
+        {
+          "name": "Hadhra",
+          "description": "Cérémonies musicales mystiques avec chants et danses spirituelles"
+        }
+      ],
+      "history": "Kairouan, quatrième ville sainte de l'Islam et première du Maghreb, est le cœur spirituel et historique de la Tunisie. Fondée en 670 par Oqba Ibn Nafi, elle est célèbre pour sa Médina, ses majestueux Bassins Aghlabites et son artisanat.",
+      "famous_sites": ["Grande Mosquée Okba", "Bassins des Aghlabides", "Médina de Kairouan", "Zaouia Sidi Sahbi (Mosquée du Barbier)", "Tapis de Kairouan"]
+    },
+    "Kasserine": {
+      "name": "Kasserine",
+      "description": "Région montagneuse du centre-ouest, abritant le Djebel Chambi (point culminant de Tunisie)",
+      "dishes": [
+        {
+          "name": "Bourzgène",
+          "description": "Pain berbère cuit dans le sable chaud",
+          "ingredients": ["semoule", "huile d'olive", "sel", "eau"]
+        },
+        {
+          "name": "Couscous à l'Osban",
+          "description": "Un plat de fête très copieux où la semoule fine est accompagnée de tripes de mouton farcies aux herbes et aux épices",
+          "ingredients": ["semoule", "tripes de mouton", "ail", "épices"]
+        },
+        {
+          "name": "Hlalem",
+          "description": "Une soupe chaude et réconfortante à base de petites pâtes faites maison, idéale pour les nuits d'hiver",
+          "ingredients": []
+        },
+        {
+          "name": "Lablebi Bel Gueddid" ,
+          "description": "Une variante locale du fameux ragoût de pois chiches, relevée avec de la viande de mouton séchée et conservée (gueddid)",
+          "ingredients": ["hrous", "gueddid", "pois chiches", "épices"]
+        }
+      ],
+      "traditions": [
+        "Festival international de Sbeitla",
+        "Élevage de moutons"
+      ],
+      "music": [
+        {
+          "name": "Gasba et le Bendir",
+          "description": "La musique traditionnelle est rythmée par la flûte en roseau (Gasba) et le tambourin (Bendir), qui accompagnent les chants bédouins et la poésie populaire"
+        },
+        {
+          "name": "Poésie et les Chants bédouins",
+          "description": "Les montagnes du Tell résonnent souvent au son de la poésie orale (comme le Chaâbi) et des chants bédouins"
+        }
+      ],
+      "history": "Kasserine (Cillium à l'époque romaine) abrite Sbeitla (Sufetula), magnifique site romain et byzantin. Kasserine se distingue par une gastronomie riche et rustique, un patrimoine historique romain et byzantin inestimable, et des traditions musicales bédouines rythmées par les poésies populaires et les chants montagnards.",
+      "famous_sites": ["Sbeitla (Sufetula)", "Djebel Chambi", "Mausolée de Flavius", "Cillium"]
+    },
+    "Sidi Bouzid": {
+      "name": "Sidi Bouzid",
+      "description": "Berceau de la Révolution tunisienne de 2011, région agricole du centre",
+      "dishes": [
+        {
+          "name": "Bahthoula",
+          "description": "Spécialité locale moins connue, c'est une sorte de couscous ou de mhames (petits plombs) cuisiné avec du poulpe, du chien de mer (kalb el bahr) et de l'ouzef",
+          "ingredients": []
+        },
+        {
+          "name": "Bsissa",
+          "description": "La Bsissa (mélange de céréales et de fruits secs moulus) y est très populaire.",
+          "ingredients": ["pois chiches","miel","fruit sec"]
+        },
+        {
+          "name": "Couscous à l'agneau",
+          "description": "lat emblématique, il est préparé avec des légumes de saison et l'agneau de la région réputé pour sa qualité.",
+          "ingredients": ["semoule","agneau","légumes","épices"]
+        }
+      ],
+      "traditions": [
+        "Commémoration du 17 décembre (début de la révolution)",
+        "Agriculture traditionnelle"
+      ],
+      "music": [],
+      "history": "Sidi Bouzid est devenue mondialement célèbre en décembre 2010 avec l'immolation de Mohamed Bouazizi, déclenchant la Révolution tunisienne et le Printemps arabe. La région reste principalement agricole.",
+      "famous_sites": ["Place Mohamed Bouazizi", "Site de Regueb"]
+    },
+    "Sousse": {
+      "name": "Sousse",
+      "description": "Capitale du Sahel tunisien, Sousse (la Perle du Sahel) brille par son riche passé phénicien et romain, sa médina inscrite au patrimoine mondial de l’UNESCO, ses traditions musicales orientales et andalouses, et sa gastronomie côtière savoureuse",
+      "dishes": [
+        {
+          "name": "Couscous au poulpe ou au poisson ",
+          "description": "Un incontournable du Sahel, souvent préparé avec une sauce tomate épicée, des pommes de terre et des légumes.",
+          "ingredients": ["poisson", "tomate", "harissa", "poulpe", "légumes", "ail"]
+        },
+        {
+          "name": "Borghol sahli",
+          "description": " Plat typique à base de blé concassé étuvé et cuit à la vapeur, servi avec de la viande (souvent de l'agneau) et des légumes.",
+          "ingredients": ["poivrons", "tomates", "agneau", "pommes de terre", "borghol"]
+        },
+        {
+          "name": "Kabkabou",
+          "description": " Un savoureux ragoût de poisson mijoté avec des tomates, des câpres, des olives et des épices",
+          "ingredients": ["poisson", "tomates", "capres", "olives", "sucre", "harissa"]
+        },
+        {
+          "name": "Brik au thon",
+          "description": "Variante sahélienne du brik avec thon, câpres et persil",
+          "ingredients": ["feuille de brick", "thon", "œuf", "câpres", "persil", "harissa"]
+        }
+      ],
+      "traditions": [
+        "Festival d'Aoussou (carnaval estival, fin juillet)",
+        "Tissage traditionnel du Sahel",
+        "Pêche traditionnelle au lamparo",
+        "Souk du dimanche à Sousse",
+        "Festival international de Sousse"
+      ],
+      "music": [
+        
+        {
+          "name": "Le Malouf ",
+          "description": "Musique classique arabo-andalouse, c'est l'un des piliers musicaux de la Tunisie. Introduit par les Andalous, il est joué lors des grandes occasions."
+        },
+        {
+          "name": "Hadhra",
+          "description": "Cérémonies musicales mystiques avec chants et danses spirituelles"
+        },
+        {
+          "name": "Mezoued",
+          "description": "Musique populaire urbaine festive avec cornemuse traditionnelle (mezoued)"
+        }
+      ],
+      "history": "L'histoire de Sousse est marquée par une succession de civilisations qui ont façonné son visage et son architecture :Hadrumète (Époque Phénicienne et Romaine) : Fondée au IXe siècle avant J.-C., la ville était un comptoir phénicien prospère utilisé par Hannibal pendant la Deuxième guerre punique. Les catacombes et les magnifiques mosaïques du Musée archéologique témoignent de cette période faste.La cité islamique (Époques Aghlabide et Fatimide) : Au IXe siècle, sous la dynastie des Aghlabides, Sousse devient le port de Kairouan. C'est de cette époque que datent ses monuments les plus emblématiques, classés au patrimoine mondial de l'UNESCO : le Ribat (forteresse spirituelle et militaire) et la Grande Mosquée.La Casbah : Erigée au centre de la Médina, elle servait à protéger la ville des attaques maritimes.",
+      "famous_sites": ["Médina de Sousse", "Ribat de Sousse", "Grande Mosquée", "Port El Kantaoui", "Catacombes de Sousse"]
+    },
+    "Monastir": {
+      "name": "Monastir",
+      "description": "Monastir est une ville côtière du Sahel tunisien, célèbre pour son riche passé historique, ses traditions culinaires maritimes et son ambiance culturelle unique. Elle abrite de prestigieux monuments comme le Ribat et le Mausolée Bourguiba. La ville offre également un terroir riche en spécialités locales de poissons et d'épices",
+      "dishes": [
+        {
+          "name": "Couscous au cherkaw",
+          "description": "Le plat signature de Monastir. La semoule est cuite à la vapeur avec des petits poissons frits ou cuits dans un bouillon épicé (harissa, oignons, tomates, piments) et accompagnée de légumes de saison (potiron, carottes, pommes de terre)",
+          "ingredients": ["poisson", "onion", "tomates", "huile d'olive", "ail","poivron"]
+        },
+        {
+          "name": "Marqet khodhra",
+          "description": "Un ragoût printanier mijoté à base de viande d'agneau, de fèves vertes et de légumes de saison.",
+          "ingredients": ["légumes de saison", "viande d'agneau", "fèves vertes"]
+        },
+        {
+          "name": "Doigts de Fatma",
+          "description": "Un feuilleté croustillant farci de blanc de poulet, de pommes de terre et de câpres",
+          "ingredients": ["feuille de brick", "poulet", "pommes de terre", "câpres"]
+        }
+      ],
+      "traditions": [
+        "Festival international de Monastir",
+        "Pêche traditionnelle"
+      ],
+      "music": [
+        {
+          "name": "Le Malouf ",
+          "description": "Musique classique arabo-andalouse, c'est l'un des piliers musicaux de la Tunisie. Introduit par les Andalous, il est joué lors des grandes occasions."
+        },
+        {
+          "name": "Stambeli",
+          "description": "Une musique de transe spirituelle héritée des communautés d'Afrique subsaharienne, rythmée par des gumbris et des crotales"
+        }
+      ],
+      "history": "Monastir (Ruspina à l'époque romaine) fut une importante base militaire de Jules César. Son Ribat (796) est l'un des plus anciens d'Afrique du Nord. Habib Bourguiba, père de la Tunisie moderne, y est né en 1903 et y repose dans un magnifique mausolée.",
+      "famous_sites": ["Ribat de Monastir", "Mausolée de Bourguiba", "Marina de Monastir", "Aéroport de Monastir", "Skanes"]
+    },
+    "Mahdia": {
+      "name": "Mahdia",
+      "description": "Ancienne capitale fatimide, port de pêche et belle station balnéaire",
+      "dishes": [
+        {
+          "name": "Brick de Mahdia",
+          "description": "Une version raffinée et locale du célèbre feuilleté. C'est un triangle de pâte croustillante généreusement farci aux amandes.",
+          "ingredients": ["feuille de brick", "amandes", "thon"]
+        },
+        {
+          "name": "Bondleka",
+          "description": "Également appelée Blibcha, c'est la spécialité printanière emblématique de la région. Il s'agit d'un ragoût mijoté à base de pourpier (une plante maraîchère), de lentilles, de fèves et de viande séchée (kadid).",
+          "ingredients": ["kadid", "fèves", "lentilles", "oeufs"]
+        },
+        {
+          "name": "Chapati Mahdia",
+          "description": "Ce sandwich chaud est préparé avec une pâte fine maison garnie d'œufs, de thon, de fromage et de pommes de terre, puis cuite à la plancha",
+          "ingredients": ["pates", "harissa", "thon", "olives", "oeufs","fromage"]
+        }
+      ],
+      "traditions": [
+        "Tissage de la soie (tradition héritée des Fatimides)",
+        "Broderies traditionnelles d'or",
+        "Festival d'El Jem (musique symphonique)",
+        "Festival de la Médina de Mahdia"
+      ],
+      "music": [
+        {
+          "name": "Le Malouf ",
+          "description": "Musique classique arabo-andalouse, c'est l'un des piliers musicaux de la Tunisie. Introduit par les Andalous, il est joué lors des grandes occasions."
+        },
+        {
+          "name": "Festival d'El Jem",
+          "description": "Festival international de musique symphonique dans l'amphithéâtre romain"
+        }
+      ],
+      "history": "Fondée en 921 par le calife fatimide Obaïd Allah Al-Mahdi, Mahdia fut la première capitale fatimide avant le Caire. L'amphithéâtre d'El Jem (IIIe siècle), à proximité, est le 3ème plus grand colisée romain au monde (35 000 places), classé UNESCO. Mahdia fut un important port de la route de la soie. La Skifa Kahla : Cette impressionnante porte fortifiée, vestige des remparts d'origine, est l'entrée principale de la médina.Borj el-Kébir : Construit à la fin du XVIe siècle par les Ottomans sur les ruines de l'ancien palais fatimide, ce fort domine le Cap Afrique.La Grande Mosquée : Bâtie au Xe siècle, elle illustre l'architecture religieuse de l'époque fatimide",
+      "famous_sites": ["Amphithéâtre d'El Jem ", "Bordj El Kebir", "Grande Mosquée fatimide", "Cap Africa", "Skifa Kahla", "Port de Mahdia"]
+    },
+    "Sfax": {
+      "name": "Sfax",
+      "description": "Sfax, capitale économique du sud tunisien, est une ville unique. Fière de sa médina aghlabide fondée au IXe siècle, elle est célèbre pour son riche patrimoine culinaire marin et oléicole, son histoire de résistance et ses traditions artistiques rythmées par le Malouf",
+      "dishes": [
+        {
+          "name": "Chermoula",
+          "description": "Plat sucré-salé emblématique de Sfax à base de raisins secs, oignons et poisson séché (ouzef), mangé à l'Aïd El Fitr",
+          "ingredients": ["raisins secs", "oignons", "poisson séché ", "épices", "cannelle"]
+        },
+        {
+          "name": "Hlelem",
+          "description": "Une soupe traditionnelle à base de petites pâtes locales, souvent préparée avec du kaddid (viande séchée) ou revisitée aux fruits de mer",
+          "ingredients": ["kadid", "ail", "hlelem", "tomates concentrées", "épices"]
+        },
+        {
+          "name": "Marka Sfaxienne ",
+          "description": "M'raika est une spécialité de la région de Sfax, connue par son littoral riche en poissons. La préparation de la sauce est toujours la même, seul le choix du poisson qui change",
+          "ingredients": ["posson", "onion", "tomate", "huile d'olive", "ail","piment"]
+        },
+        {
+          "name": "Drôo",
+          "description": "Boisson chaude à base de sorgho, servie en hiver",
+          "ingredients": ["sorgho", "lait", "sucre", "épices"]
+        },
+        {
+          "name": "Malthouth",
+          "description": "Il s'agit d'un couscous à base d'orge concassé et cuit à la vapeur. Il est traditionnellement servi avec une sauce riche en légumes, de la viande (souvent de l'agneau), ou parfois préparé avec la tête d'agneau",
+          "ingredients": ["agneau", "légumes", "huile d'olive", "épices"]
+        },
+        {
+          "name": "Besine et la Kleya",
+          "description": "Le plat typique du matin de l'Aïd el-Kabir. Le Besine est une crème de semoule à l'huile d'olive mangée avec la Kleya (viande et abats mijotés dans l'huile)",
+          "ingredients": ["semoule", "viande", "sel", "huile d'olive"]
+        }
+      ],
+      "traditions": [
+        "Pêche aux îles Kerkennah",
+        "Festival des arts plastiques de Mahres"
+      ],
+      "music": [
+        {
+          "name": "Le Malouf ",
+          "description": "Musique classique arabo-andalouse, c'est l'un des piliers musicaux de la Tunisie. Introduit par les Andalous, il est joué lors des grandes occasions."
+        },
+        {
+          "name": "Hadhra",
+          "description": "Cérémonies musicales mystiques avec chants et danses spirituelles"
+        }
+      ],
+      "history": "Sfax fut fondée en 849 par les Aghlabides. Sa Médina, entièrement fortifiée par des remparts, est l'une des mieux préservées du monde arabe. La ville fut un grand centre commercial pour l'huile d'olive (1ère région productrice mondiale) et l'éponge naturelle. Les Sfaxiens ont la réputation d'être les meilleurs commerçants de Tunisie.",
+      "famous_sites": ["Médina de Sfax", "Bab Diwan", "Kasbah de Sfax", "Îles Kerkennah", "Grande Mosquée", "Souk des forgerons"]
+    },
+    "Gabès": {
+      "name": "Gabès",
+      "description": "Seule oasis maritime au monde, où les palmiers rencontrent la mer",
+      "dishes": [
+        {
+          "name": "Couscous au poisson de Gabès",
+          "description": "Couscous unique mélangeant poisson de mer et légumes",
+          "ingredients": ["semoule", "poisson", "légumes"]
+        },
+        {
+          "name": "Salade Blankit",
+          "description": "Une création emblématique du terroir. Du pain rassis émietté est ramolli avec de l'harissa et de l'ail, puis assaisonné d'huile d'olive, de thon et d'olives.",
+          "ingredients": ["pain", "thon", "harissa", "olives" ]
+        },
+        {
+          "name": "Barkoukech",
+          "description": "Un plat réconfortant à base de gros grains de plombs (ou grains de couscous géants), généralement cuisiné avec des légumes de saison, de la viande (ou du klaya) et des épices",
+          "ingredients": ["semoule", "viande", "légumes", "épices"]
+        },
+        {
+          "name": " Mesfouf à la grenade",
+          "description": "Une spécialité sucrée-salée unique qui met en valeur la célèbre grenade de Gabès. Il s'agit d'une graine de couscous fine, cuite à la vapeur, mélangée à des graines de grenade fraîche et parfois accompagnée de lait caillé",
+          "ingredients": ["grenda", "semoule"]
+        }
+      ],
+      "traditions": [
+        "Culture du henné",
+        "Pêche traditionnelle dans le golfe de Gabès",
+        "Artisanat du palmier",
+        "Festival international de Gabès"
+      ],
+      "music": [
+        {
+          "name": "Le Malouf ",
+          "description": "Musique classique arabo-andalouse, c'est l'un des piliers musicaux de la Tunisie. Introduit par les Andalous, il est joué lors des grandes occasions."
+        },
+        {
+          "name": "Musique bédouine",
+          "description": "Très vivante dans la région du Cap Bon, elle est rythmée par la flûte Gasba, le tambourin Darbouka et la cornemuse locale appelée Zokra"
+        },
+        {
+          "name": "Mezoued",
+          "description": "Musique populaire urbaine festive avec cornemuse traditionnelle (mezoued)"
+        }
+      ],
+      "history": "Gabès (Tacapae à l'époque romaine) est citée par Pline l'Ancien pour son oasis maritime unique. La ville fut un important point de rencontre entre commerce saharien et méditerranéen. Le golfe de Gabès est mentionné dans l'Odyssée d'Homère comme repaire des Syrtes.",
+      "famous_sites": ["Oasis de Chenini", "Médina de Gabès", "Mausolée Sidi Boulbaba", "Marché de Jara", "Matmata (à proximité)"]
+    },
+    "Médenine": {
+      "name": "Médenine",
+      "description": "Porte du Sud tunisien, abritant Djerba et les villages berbères troglodytes",
+      "dishes": [
+      
+        {
+          "name": "Rouz djerbi",
+          "description": "Riz djerbien aux épices et fruits de mer",
+          "ingredients": ["riz", "fruits de mer", "épices", "tomate"]
+        }
+      ],
+      "traditions": [
+        "Pèlerinage juif à la Ghriba (mai) - plus ancien pèlerinage juif d'Afrique",
+        "Poterie traditionnelle de Guellala",
+        "Tissage berbère",
+        "Architecture des menzels (maisons traditionnelles djerbiennes)"
+      ],
+      "music": [
+        {
+          "name": "Musique bédouine",
+          "description": "Très vivante dans la région du Cap Bon, elle est rythmée par la flûte Gasba, le tambourin Darbouka et la cornemuse locale appelée Zokra"
+        },
+        {
+          "name": "Mezoued",
+          "description": "Musique populaire urbaine festive avec cornemuse traditionnelle (mezoued)"
+        }
+      ],
+      "history": "Médenine, ville du Sud-est tunisien . Entre traditions amazighes (berbères), influences sahariennes et empreintes des grandes civilisations méditerranéennes, la région se distingue par son architecture en ksours, sa gastronomie riche et ses coutumes uniques.",
+      "famous_sites": ["Synagogue de la Ghriba", "Houmt Souk", "Guellala (poterie)", "Plage de Sidi Mahres"]
+    },
+    "Tataouine": {
+      "name": "Tataouine",
+      "description": "Tataouine, joyau du Sud tunisien aux portes du désert, est une terre de contraste où l'héritage amazigh (berbère) rencontre les traditions nomades. Entre ses fameux ksour (villages fortifiés), sa cuisine riche et ses mélodies sahariennes, la région offre une immersion authentique dans l'histoire millénaire du Grand Sud ",
+      "dishes": [
+        {
+          "name": "Mahchi Tataouine",
+          "description": "Aussi appelées garn ghzel, ce sont des petites cornes allongées farcies d'amandes concassées, frites et trempées dans le miel",
+          "ingredients": ["cornes", "amandes", "miel"]
+        },
+        {
+          "name": "Assida bi Tbikha",
+          "description": "Un plat réconfortant composé d'une assida accompagnée d'une sauce riche à base de légumes secs, de fenugrec et d'épices.",
+          "ingredients": ["assida blanche", "huile d'olive", "légumes"]
+        }
+      ],
+      "traditions": [
+        "Festival des Ksour (mars)",
+        "Architecture troglodyte berbère",
+        "Élevage de chameaux et moutons",
+        "Tissage berbère ancestral"
+      ],
+      "music": [
+        {
+          "name": "Naç",
+          "description": "Il s'agit d'un genre vocal traditionnel spécifique à la région de Tataouine. Il met en valeur la production poétique et musicale, et se chante particulièrement lors des rituels et des fêtes de mariage"
+        },
+        {
+          "name": "Musique bédouine",
+          "description": "Très vivante dans la région du Cap Bon, elle est rythmée par la flûte Gasba, le tambourin Darbouka et la cornemuse locale appelée Zokra"
+        }
+      ],
+      "history": "Le nom de Tataouine signifie les yeux en berbère (Tiṭṭawin). L'histoire de la ville et de ses environs est marquée par de multiples influences. Les Villages Berbères : La région abrite des villages perchés et troglodytiques mondialement connus, comme Chenini, Douiret et Guermassa, qui servaient autrefois de refuges fortifiés.L'Architecture des Ksour : Les ksour sont des greniers collectifs fortifiés construits par les tribus berbères. Des édifices comme le Ksar Ouled Soltane et Ksar Hadada sont des chefs-d'œuvre architecturaux",
+      "famous_sites": ["Ksar Ouled Soltane", "Chenini", "Douiret", "Ksar Hadada", "Ghomrassen"]
+    },
+    "Gafsa": {
+      "name": "Gafsa",
+      "description": "Oasis historique du Sud-Ouest, capitale du bassin minier",
+      "dishes": [
+        {
+          "name": "Barkoukech",
+          "description": "Un plat réconfortant à base de gros grains de plombs (ou grains de couscous géants), généralement cuisiné avec des légumes de saison, de la viande (ou du klaya) et des épices",
+          "ingredients": ["semoule", "viande", "légumes", "épices"]
+        },
+        {
+          "name": "Metabga",
+          "description": "Galette farcie emblématique de la région, cuite sur unecroûte de terre chaude, généralement garnie d'un mélange épicé d'oignons, tomates et viand",
+          "ingredients": ["galette", "tomates", "onion", "chham"]
+        }
+      ],
+      "traditions": [
+        "Festival international de Gafsa",
+        "Culture des dattes et oliviers"
+      ],
+      "music": [
+        {
+          "name": "Stambeli",
+          "description": "Une musique de transe spirituelle héritée des communautés d'Afrique subsaharienne, rythmée par des gumbris et des crotales"
+        },
+        {
+          "name": "Musique bédouine",
+          "description": "Très vivante dans la région du Cap Bon, elle est rythmée par la flûte Gasba, le tambourin Darbouka et la cornemuse locale appelée Zokra"
+        }
+      ],
+      "history": "Gafsa (Capsa à l'époque romaine) donna son nom à la civilisation préhistorique 'capsienne' (8000 av. J.-C.). La ville fut détruite par Marius en 107 av. J.-C. lors de la Guerre de Jugurtha. Les piscines romaines sont encore utilisées aujourd'hui.L'époque Islamique : La ville conserve une empreinte spirituelle forte. Pour tout découvrir sur son architecture et son évolution, vous pouvez consulter la présentation détaillée de Zaher Kammoun.Les origines (Capsa) : Gafsa est l'une des plus anciennes cités d'Afrique du Nord. Elle a donné son nom à la célèbre civilisation préhistorique Capsienne.L'époque Romaine : Appelée Capsa à l'époque romaine, elle était une oasis stratégique sur la voie reliant Gabès à Haïdra. Elle conserve de cette époque la célèbre Piscine Romaine située au cœur de la ville.",
+      "famous_sites": ["Piscines romaines de Gafsa", "Mines de Métlaoui"]
+    },
+    "Tozeur": {
+      "name": "Tozeur",
+      "description": "Capitale historique de la région du Djérid, Tozeur est une oasis fascinante aux portes du Sahara, célèbre pour son architecture en briques d'argile, ses palmeraies luxuriantes et son histoire millénaire",
+      "dishes": [
+        {
+          "name": "Salade Tozerienne",
+          "description": " Fraîche et croquante, elle accompagne parfaitement les plats riches du Sud. Elle est généralement composée de tomates, de concombres, de poivrons grillés, d'oignons et garnie d'œufs durs et de thon",
+          "ingredients": ["cucumber", "oeuf", "huile d'olive", "tomates","onion","poivrons"]
+        },
+        {
+          "name": "Mesfouf aux dattes",
+          "description": "Pour une touche sucrée-salée, ce couscous très fin est cuit à la vapeur, mélangé avec du beurre et agrémenté de la célèbre datte Deglet Nour de la région",
+          "ingredients": ["beurre", "dattes", "eau de fleur"]
+        },
+        {
+          "name": "Confiture de dattes",
+          "description": "Confiture artisanale des fameuses dattes de Tozeur",
+          "ingredients": ["dattes", "sucre", "fleur d'oranger"]
+        }
+      ],
+      "traditions": [
+        "Festival international des oasis (décembre)",
+        "Architecture en briques d'argile",
+        "Culture des dattes Deglet Nour",
+        "Système d'irrigation millénaire",
+        "Tradition des caravanes sahariennes"
+      ],
+      "music": [
+        {
+          "name": "Stambeli",
+          "description": "Une musique de transe spirituelle héritée des communautés d'Afrique subsaharienne, rythmée par des gumbris et des crotales"
+        },
+        {
+          "name": "Musique bédouine",
+          "description": "Très vivante dans la région du Cap Bon, elle est rythmée par la flûte Gasba, le tambourin Darbouka et la cornemuse locale appelée Zokra"
+        }
+      ],
+      "history": "Époque Romaine : Fondée au 3e millénaire avant J.-C., la cité est occupée par les Romains qui la baptisent Thusuros. Elle constituait un point névralgique pour le commerce des dattes et des esclaves sur la voie reliant Gabès à Biskra. La Médina d'Ouled El Hadef : Édifiée au XIVe siècle, cette médina est la marque de fabrique historique de Tozeur. Ses ruelles et ses façades sont construites avec des briques d'argile sculptées selon des motifs géométriques uniques.",
+      "famous_sites": ["Médina Ouled El Hadef", "Palmeraie de Tozeur", "Chott El Jerid", "Chebika et Tamerza", "Ong Jmel ","Sidi Bouhlel"]
+    },
+    "Kébili": {
+      "name": "Kébili",
+      "description": "Située aux portes du Grand Erg Oriental, Kébili est le cœur historique de la région du Nefzaoua. Son histoire millénaire, sa culture oasienne, ses traditions culinaires et sa musique bédouine et africaine en font une escale incontournable et authentique du sud tunisien",
+      "dishes": [
+        {
+          "name": "Couscous au Chameau",
+          "description": "Un incontournable du Sud. La viande de chameau y est mijotée avec des légumes et une semoule fine",
+          "ingredients": ["semoule", "viande de chameau", "légumes", "épices"]
+        },
+        {
+          "name": "Khobz El Mella",
+          "description": "Le pain des nomades. La pâte est directement cuite sous la cendre chaude et le sable du désert.",
+          "ingredients": ["farine", "eau", "sel", "levure"]
+        },
+        {
+          "name": "Lben (lait fermenté)",
+          "description": "Boisson rafraîchissante des bédouins",
+          "ingredients": ["lait de chamelle ou vache", "sel"]
+        }
+      ],
+      "traditions": [
+        "Festival international du Sahara de Douz (décembre)",
+        "Courses de chameaux traditionnelles",
+        "Tradition nomade bédouine",
+        "Chasse au lévrier sloughi",
+        "Mariages bédouins traditionnels"
+      ],
+      "music": [
+        {
+          "name": "Stambeli",
+          "description": "Une musique de transe spirituelle héritée des communautés d'Afrique subsaharienne, rythmée par des gumbris et des crotales"
+        },
+        {
+          "name": "Musique bédouine",
+          "description": "Très vivante dans la région du Cap Bon, elle est rythmée par la flûte Gasba, le tambourin Darbouka et la cornemuse locale appelée Zokra"
+        }
+      ],
+      "history": "L'histoire de Kébili s'enracine profondément dans le passé, avec des traces de présence humaine remontant à la Préhistoire et à l'époque romaine. Ancien centre d'échanges et halte caravanière, la région était autrefois appelée Nefzaoua ou Telmin . Ses habitants, issus d'un riche métissage entre tribus berbères, nomades bédouins et caravaniers subsahariens, ont façonné cette terre en harmonie avec un environnement désertique aux conditions souvent extrêmes.",
+      "famous_sites": ["Douz", "Ksar Ghilane", "Oasis de Kébili"]
+    }
+  },
+  "national_traditions": [
+    {
+      "name": "Mariage tunisien",
+      "description": "Cérémonie de 7 jours avec henné (Outia), Jelwa (présentation), et fête finale avec malouf"
+    },
+    {
+      "name": "Ramadan",
+      "description": "Mois sacré avec rupture du jeûne (iftar) et plats spéciaux : chorba, brik, zlabia, makroudh"
+    },
+    {
+      "name": "Aïd El Fitr",
+      "description": "Fête de fin du Ramadan : baklawa, kaak, visites familiales et nouveaux vêtements"
+    },
+    {
+      "name": "Aïd El Adha (Aïd El Kebir)",
+      "description": "Fête du sacrifice : mouton, couscous et plats à base de viande sur plusieurs jours"
+    },
+    {
+      "name": "Mawlid",
+      "description": "Anniversaire du Prophète Mohammed, célébré avec assida zgougou, particulièrement à Kairouan"
+    },
+    {
+      "name": "Sebou'",
+      "description": "Célébration du 7ème jour après la naissance d'un bébé, avec rituels et zgougou"
+    },
+    {
+      "name": "Yennayer (Nouvel An berbère)",
+      "description": "Célébré le 12 janvier, avec plats à base de céréales et légumes"
+    },
+    {
+      "name": "Fête de la République",
+      "description": "25 juillet, commémoration de la proclamation de la République en 1957"
+    },
+    {
+      "name": "Fête de l'Indépendance",
+      "description": "20 mars, indépendance de la Tunisie de la France (1956)"
+    }
+  ],
+  "national_music": [
+    {
+      "name": "Malouf",
+      "description": "Musique classique arabo-andalouse, patrimoine de l'UNESCO depuis 2003"
+    },
+    {
+      "name": "Mezoued",
+      "description": "Musique populaire avec cornemuse traditionnelle (mezoued), très festive et urbaine"
+    },
+    {
+      "name": "Stambeli",
+      "description": "Musique rituelle d'origine subsaharienne, héritage des esclaves affranchis"
+    },
+    {
+      "name": "Raï tunisien",
+      "description": "Musique moderne influencée par le raï algérien, populaire dans les années 90"
+    },
+    {
+      "name": "Chaâbi tunisien",
+      "description": "Musique populaire des quartiers, voix de la rue tunisienne"
+    },
+    {
+      "name": "Rap tunisien",
+      "description": "Scène hip-hop dynamique apparue dans les années 2000 (Balti, Klay BBJ, Ferid El Extranjero)"
+    },
+    {
+      "name": "Nouba",
+      "description": "Suite musicale classique du malouf, structure savante en plusieurs mouvements"
+    }
+  ],
+  "national_dishes": [
+    "Couscous (plat national, varié selon les régions)",
+    "Brik à l'œuf (entrée emblématique)",
+    "Chorba (soupe, surtout en Ramadan)",
+    "Mloukhia (ragoût de feuilles de corète)",
+    "Lablabi (soupe de pois chiches)",
+    "Ojja (œufs avec merguez et tomates)",
+    "Harissa (condiment national, pâte de piment)",
+    "Kafteji (légumes frits)",
+    "Marqa (ragoûts variés)",
+    "Makroudh (pâtisserie aux dattes)",
+    "Baklawa (pâtisserie aux noix et miel)",
+    "Zlabia (beignet trempé dans le sirop)",
+    "Tajine tunisien (quiche aux œufs)",
+    "Salade méchouia (légumes grillés)",
+    "Bambalouni (beignet sucré)"
+  ],
+  "national_drinks":[
+    {
+      "name": "Thé à la menthe",
+      "description": "Thé vert avec menthe fraîche, pignons de pin, boisson sociale par excellence"
+    },
+    {
+      "name": "Café turc",
+      "description": "Café noir épais servi dans de petites tasses"
+    },
+    {
+      "name": "Boukha",
+      "description": "Eau-de-vie de figues, spécialité tunisienne unique"
+    },
+    {
+      "name": "Thibarine",
+      "description": "Liqueur de dattes, produite à Thibar"
+    },
+    {
+      "name": "Citronnade",
+      "description": "Boisson rafraîchissante au citron, très populaire en été"
+    },
+    {
+      "name": "Drôo",
+      "description": "Boisson chaude au sorgho, servie en hiver à Sfax"
+    },
+    {
+      "name": "Legmi",
+      "description": "Sève de palmier dattier récoltée à l'état frais, consommée douce ou fermentée"
+    },
+    {
+      "name": "Boga",
+      "description": "Soda national emblématique décliné en plusieurs parfums dont le fameux Cidre"
+    },
+    {
+      "name": "Rozata",
+      "description": "Sirop d’amandes douces et amères dilué avec de l’eau, typique des célébrations"
+    }
+  ]
+,
+  "national_artisanat": [
+  {
+    "name": "Tapis de Kairouan",
+    "description": "Tapis noués à la main, patrimoine UNESCO, motifs géométriques"
+  },
+  {
+    "name": "Poterie de Nabeul et Guellala",
+    "description": "Céramiques traditionnelles aux motifs floraux et géométriques"
+  },
+  {
+    "name": "Cuivre de la Médina de Tunis",
+    "description": "Plateaux, théières et lampes en cuivre martelé"
+  },
+  {
+    "name": "Tissage berbère",
+    "description": "Tapis Margoum, Kilim et Klim, motifs ancestraux"
+  },
+  {
+    "name": "Bijoux berbères en argent",
+    "description": "Fibules, colliers et bracelets traditionnels"
+  },
+  {
+    "name": "Broderie de Nabeul et Sfax",
+    "description": "Broderies fines au fil d'or et de soie"
+  },
+  {
+    "name": "Verre soufflé",
+    "description": "Tradition héritée des Phéniciens, encore vivante"
+  },
+  {
+    "name": "Cuir et maroquinerie",
+    "description": "Sacs, ceintures et babouches en cuir tanné traditionnel"
+  },
+  {
+    "name": "Chéchia de Tunis",
+    "description": "Bonnet en laine rouge feutrée, emblème du costume national tunisien"
+  },
+  {
+    "name": "Vannerie d'oasis",
+    "description": "Paniers, chapeaux et couffins tissés en feuilles de palmier ou alfa"
+  },
+  {
+    "name": "Musée archéologique d'El Jem",
+    "description": "Assemblage minutieux de petits cubes de pierre, héritage de l'époque romaine"
+  },
+  {
+    "name": "Plâtre sculpté (Nakch Hedida)",
+    "description": "Sculptures architecturales sur plâtre frais ornant les palais et mosquées"
+  },
+  {
+    "name": "Cages d'oiseaux de Sidi Bou Saïd",
+    "description": "Cages en bois blanc et fils de fer bleus bombés très artistiques"
+  }
+]
+
+}
