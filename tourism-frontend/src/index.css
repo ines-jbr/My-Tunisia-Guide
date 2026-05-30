@@ -595,6 +595,7 @@ body::before {
    ========================================= */
 
 .map-panel {
+  border-radius: 28px;
   width: 420px;
   min-width: 420px;
   border-left: 1px solid var(--border);
@@ -603,6 +604,51 @@ body::before {
   flex-direction: column;
   overflow: hidden;
   position: relative;
+}
+.map-container{
+
+width:100%;
+
+height:100%;
+border-radius: inherit;      
+  overflow: hidden;
+
+}
+
+.map-status{
+
+position:absolute;
+
+bottom:15px;
+
+left:15px;
+
+padding:8px 14px;
+
+border-radius:20px;
+
+background:rgba(
+19,
+28,
+49,
+0.85
+);
+
+backdrop-filter:blur(8px);
+
+color:white;
+
+font-size:.8rem;
+
+font-weight:600;
+
+border:1px solid rgba(
+255,
+255,
+255,
+0.1
+);
+
 }
 
 .map-header {
@@ -875,72 +921,8 @@ font-size:1rem;
 
 }
 
-.map-panel{
 
-position:relative;
 
-height:100%;
-
-overflow:hidden;
-
-border-radius:20px;
-
-background:#131C31;
-
-box-shadow:
-0 10px 25px
-rgba(
-0,
-0,
-0,
-0.25
-);
-
-}
-
-.map-container{
-
-width:100%;
-
-height:100%;
-
-}
-
-.map-status{
-
-position:absolute;
-
-bottom:15px;
-
-left:15px;
-
-padding:8px 14px;
-
-border-radius:20px;
-
-background:rgba(
-19,
-28,
-49,
-0.85
-);
-
-backdrop-filter:blur(8px);
-
-color:white;
-
-font-size:.8rem;
-
-font-weight:600;
-
-border:1px solid rgba(
-255,
-255,
-255,
-0.1
-);
-
-}
 
 /* ===== FULL PAGE BACKGROUND ===== */
 .auth-container {

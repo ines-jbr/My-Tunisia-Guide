@@ -25,7 +25,8 @@ builder.Services.AddCors(options =>
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddSingleton<VerificationService>();
+builder.Services.AddScoped<EmailService>();
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

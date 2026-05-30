@@ -10,36 +10,48 @@ public static class PromptBuilder
         string userQuestion,
         List<PlaceRecord> places,
         JsonElement culturalKnowledge,
-        string ragContext = "")
+        string ragContext        = "",
+        List<EventRecord>? events = null,
+        string culturalContext   = "")
     {
         var sb = new StringBuilder();
 
-        // Instruction stricte
-        sb.AppendLine("""
-            Tu es un assistant touristique expert en Tunisie.
-            Réponds UNIQUEMENT avec ce JSON sur UNE SEULE LIGNE :
-            {"text":"réponse","hasGeo":true,"places":["nom1"]}
-            AUCUN commentaire. AUCUNE explication. JSON UNIQUEMENT.
-            """);
+        // Instruction simple et claire
+        sb.AppendLine("Tu es un guide touristique expert en Tunisie.");
+        sb.AppendLine("Réponds en JSON sur une seule ligne :");
+        sb.AppendLine("{\"text\":\"ta réponse\",\"hasGeo\":true,\"places\":[\"nom1\"]}");
+        sb.AppendLine("Règle : JSON uniquement, rien d'autre.");
+        sb.AppendLine();
 
-        // Contexte RAG
-        if (!string.IsNullOrEmpty(ragContext))
-        {
-            sb.AppendLine("\nCONTEXTE DOCUMENTAIRE:");
-            sb.AppendLine(ragContext[..Math.Min(ragContext.Length, 500)]);
-        }
-
-        // Lieux disponibles — version simplifiée
+        // Lieux — max 8
         if (places.Any())
         {
-            sb.AppendLine("\nLIEUX DISPONIBLES:");
-            foreach (var p in places.Take(10))
-                sb.AppendLine($"{p.Name} | {p.Type} | {p.Region}");
+            sb.AppendLine("Lieux disponibles :");
+            foreach (var p in places.Take(8))
+                sb.AppendLine($"- {p.Name} ({p.Type}, {p.Region})");
+            sb.AppendLine();
+        }
+
+        // Événements — max 5
+        if (events != null && events.Any())
+        {
+            sb.AppendLine("Événements :");
+            foreach (var e in events.Take(5))
+                sb.AppendLine($"- {e.Name} ({e.Category}, {e.StartDate})");
+            sb.AppendLine();
+        }
+
+        // RAG — max 200 chars
+        if (!string.IsNullOrEmpty(ragContext))
+        {
+            sb.AppendLine("Contexte :");
+            sb.AppendLine(ragContext[..Math.Min(
+                ragContext.Length, 200)]);
+            sb.AppendLine();
         }
 
         // Question
-        sb.AppendLine($"\nQUESTION: {userQuestion}");
-        sb.AppendLine("\nRéponds UNIQUEMENT avec le JSON demandé:");
+        sb.AppendLine($"Question : {userQuestion}");
 
         return sb.ToString();
     }

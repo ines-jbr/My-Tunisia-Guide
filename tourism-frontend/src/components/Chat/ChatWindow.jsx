@@ -1,5 +1,4 @@
 import { useRef, useEffect } from 'react'
-import { useChat } from '../../hooks/useChat'
 import MessageBubble from './MessageBubble'
 import ChatInput from './ChatInput'
 
@@ -24,8 +23,8 @@ function EmptyState() {
       <div className="empty-icon">🌍</div>
       <p className="empty-title">Bienvenue sur My Tunisia Guide</p>
       <p className="empty-sub">
-        Posez une question sur les hôtels, restaurants, sites archéologiques ou
-        événements culturels en Tunisie.
+        Posez une question sur les hôtels, restaurants,
+        sites archéologiques ou événements culturels en Tunisie.
       </p>
     </div>
   )
@@ -47,8 +46,13 @@ function ErrorBanner({ message }) {
   )
 }
 
-export default function ChatWindow({ onGeoResults }) {
-  const { messages, loading, error, sendMessage } = useChat(onGeoResults)
+export default function ChatWindow({
+  messages,
+  loading,
+  error,
+  sendMessage,
+  onGeoResults
+}) {
   const bottomRef = useRef(null)
 
   useEffect(() => {
@@ -58,11 +62,12 @@ export default function ChatWindow({ onGeoResults }) {
   return (
     <div className="chat-window">
       <div className="messages-area">
-        {messages.length === 0 && !loading ? (
-          <EmptyState />
-        ) : (
-          messages.map((msg) => <MessageBubble key={msg.id} message={msg} />)
-        )}
+        {messages.length === 0 && !loading
+          ? <EmptyState />
+          : messages.map(msg => (
+              <MessageBubble key={msg.id} message={msg} />
+            ))
+        }
         {loading && <TypingIndicator />}
         <div ref={bottomRef} />
       </div>
